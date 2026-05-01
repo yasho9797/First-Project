@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct>
+  <Product>
+    <ProductId>1298</ProductId>
+    <ProductName>PastaShamenet</ProductName>
+    <Category>Pasta</Category>
+    <Price>45</Price>
+    <AmountProduct>20</AmountProduct>
+  </Product>
+  <Product>
+    <ProductId>1299</ProductId>
+    <ProductName>saled_</ProductName>
+    <Category>Salad</Category>
+    <Price>50</Price>
+    <AmountProduct>10</AmountProduct>
+  </Product>
+  <Product>
+    <ProductId>1300</ProductId>
+    <ProductName>Coffe</ProductName>
+    <Category>Beverage</Category>
+    <Price>10</Price>
+    <AmountProduct>30</AmountProduct>
+  </Product>
+  <Product>
+    <ProductId>1301</ProductId>
+    <ProductName>Cake</ProductName>
+    <Category>Desert</Category>
+    <Price>30</Price>
+    <AmountProduct>50</AmountProduct>
+  </Product>
+  <Product>
+    <ProductId>1302</ProductId>
+    <ProductName>TastyPasta</ProductName>
+    <Category>Pasta</Category>
+    <Price>60</Price>
+    <AmountProduct>60</AmountProduct>
+  </Product>
+</ArrayOfProduct>
